@@ -1,0 +1,299 @@
+{
+    "site": "无尽资源",
+    "baseUrl": "https://www.wujinzy.net/",
+    "isJson":true,
+    "categoryUrl": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/?ac=detail&pg=${page}&t=${category}&year=${year}&area=${area}&lang=${lang}&class=${class}&h=${hour}",
+    "detailUrl": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/?ac=detail&ids=${id}",
+    "searchUrl": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/?ac=detail&pg=${page}&wd=${keyword}&limit=50",   
+        "findListBody": "list",    
+    "findMovieId": "vod_id",
+    "findUrl": "vod_id",
+    "findPosterUrl": "vod_pic",
+    "findTitle": "vod_name",
+    "findRemarks": "vod_remarks",
+    "findScore": "vod_score",
+    "detailBody": "list",
+    "detailPosterUrl": "vod_pic",
+    "detailTitle": "vod_name",
+    "detailSubTitle": "vod_sub",
+    "detailPlot": "vod_content",
+    "detailPlayUrls": "vod_play_url@#@$",
+    "detailPlayTitles": "",
+    "detailScore": "vod_score",
+    "detailRemarks": "vod_remarks",
+    "detailGenre": "vod_class",
+    "detailDirector": "vod_director",
+    "detailActors": "vod_actor",
+    "detailYear": "vod_year",
+    "detailRegion": "vod_area",
+    "detailLanguage": "vod_lang",
+    "detailUpdateTime": "vod_time",
+    "detailVideoType":".m3u8",
+    "categories":[
+  {
+    "type": "1",
+	"pid":"0",
+    "title": "电影"
+  },
+  {
+    "type": "2",
+	"pid":"0",
+    "title": "连续剧"
+  },
+  {
+    "type": "3",
+	"pid":"0",
+    "title": "综艺"
+  },
+  {
+    "type": "4",
+	"pid":"0",
+    "title": "动漫"
+  },
+  {
+    "type": "6",
+	"pid":"1",
+    "title": "动作片"
+  },
+  {
+    "type": "7",
+	"pid":"1",
+    "title": "喜剧片"
+  },
+  {
+    "type": "8",
+	"pid":"1",
+    "title": "爱情片"
+  },
+  {
+    "type": "9",
+	"pid":"1",
+    "title": "科幻片"
+  },
+  {
+    "type": "10",
+	"pid":"1",
+    "title": "恐怖片"
+  },
+  {
+    "type": "11",
+	"pid":"1",
+    "title": "剧情片"
+  },
+  {
+    "type": "12",
+	"pid":"1",
+    "title": "战争片"
+  },
+  {
+    "type": "13",
+	"pid":"2",
+    "title": "国产剧"
+  },
+  {
+    "type": "14",
+	"pid":"2",
+    "title": "香港剧"
+  },
+  {
+    "type": "15",
+	"pid":"2",
+    "title": "台湾剧"
+  },
+  {
+    "type": "16",
+	"pid":"2",
+    "title": "美国剧"
+  }, 
+  {
+    "type": "21",
+	"pid":"1",
+    "title": "纪录片"
+  },
+  {
+    "type": "22",
+	"pid":"2",
+    "title": "韩国剧"
+  },
+  {
+    "type": "23",
+	"pid":"2",
+    "title": "日本剧"
+  },
+  {
+    "type": "24",
+	"pid":"2",
+    "title": "海外剧"
+  },
+  {
+    "type": "25",
+	"pid":"3",
+    "title": "大陆综艺"
+  },
+  {
+    "type": "26",
+	"pid":"3",
+    "title": "日韩综艺"
+  },
+  {
+    "type": "27",
+	"pid":"3",
+    "title": "港台综艺"
+  },
+  {
+    "type": "28",
+	"pid":"3",
+    "title": "欧美综艺"
+  },
+  {
+    "type": "29",
+	"pid":"4",
+    "title": "国产动漫"
+  },
+  {
+    "type": "30",
+	"pid":"4",
+    "title": "日韩动漫"
+  },
+  {
+    "type": "31",
+	"pid":"4",
+    "title": "欧美动漫"
+  },
+  {
+    "type": "32",
+	"pid":"1",
+    "title": "悬疑片"
+  },
+  {
+    "type": "33",
+	"pid":"1",
+    "title": "动画片"
+  },
+  {
+    "type": "34",
+	"pid":"1",
+    "title": "犯罪片"
+  },
+  {
+    "type": "35",
+	"pid":"1",
+    "title": "奇幻片"
+  },
+  {
+    "type": "36",
+	"pid":"1",
+    "title": "邵氏电影"
+  },
+  {
+    "type": "37",
+	"pid":"2",
+    "title": "泰剧"
+  },
+  {
+    "type": "38",
+	"pid":"0",
+    "title": "体育赛事"
+  },
+  {
+    "type": "39",
+	"pid":"38",
+    "title": "篮球"
+  },
+  {
+    "type": "40",
+	"pid":"1",
+    "title": "影视解说"
+  },
+  {
+    "type": "41",
+	"pid":"0",
+    "title": "短剧"
+  },
+  {
+    "type": "42",
+	"pid":"4",
+    "title": "港台动漫"
+  },
+  {
+    "type": "43",
+	"pid":"4",
+    "title": "海外动漫"
+  },
+  {
+    "type": "44",
+	"pid":"3",
+    "title": "演唱会"
+  },
+  {
+    "type": "45",
+	"pid":"38",
+    "title": "足球"
+  }, 
+  {
+    "type": "52",
+	"pid":"3",
+    "title": "写真热舞"
+  },
+  {
+    "type": "53",
+	"pid":"4",
+    "title": "有声动漫"
+  },
+  {
+    "type": "54",
+	"pid":"41",
+    "title": "女频恋爱"
+  },
+  {
+    "type": "55",
+	"pid":"41",
+    "title": "反转爽剧"
+  },
+  {
+    "type": "56",
+	"pid":"41",
+    "title": "脑洞悬疑"
+  },
+  {
+    "type": "57",
+	"pid":"41",
+    "title": "年代穿越"
+  },
+  {
+    "type": "58",
+	"pid":"41",
+    "title": "古装仙侠"
+  },
+  {
+    "type": "59",
+	"pid":"41",
+    "title": "现代都市"
+  },
+  {
+    "type": "60",
+	"pid":"1",
+    "title": "Netflix电影"
+  },
+  {
+    "type": "61",
+	"pid":"2",
+    "title": "Netflix自制剧"
+  },
+  {
+    "type": "62",
+	"pid":"41",
+    "title": "擦边短剧"
+  },
+  {
+    "type": "63",
+	"pid":"4",
+    "title": "漫剧"
+  },
+  {
+    "type": "64",
+	"pid":"3",
+    "title": "儿童儿歌"
+  }
+]
+}

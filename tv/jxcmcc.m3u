@@ -1,0 +1,149 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视",CCTV-1高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225642/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-2高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV3(8M)
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV4
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV5(8M)
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV5PLUS高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225706/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV6(8M)
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-7高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV8(8M)
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225631/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-9高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-10高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-11
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-12高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-13
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-14高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225640/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-15
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-16
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226233/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV17农业农村高清4M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 group-title="卫视",纯享4K
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 group-title="卫视",东南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 group-title="卫视",东方卫视高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 group-title="卫视",江苏卫视高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225702/index.m3u8
+#EXTINF:-1 group-title="卫视",江西卫视高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 group-title="卫视",河北卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="卫视",浙江卫视高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225703/index.m3u8
+#EXTINF:-1 group-title="卫视",深圳卫视高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225700/index.m3u8
+#EXTINF:-1 group-title="卫视",湖北卫视高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 group-title="卫视",湖南卫视高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 group-title="卫视",北京卫视高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225674/index.m3u8
+#EXTINF:-1 group-title="卫视",北京纪实高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225676/index.m3u8
+#EXTINF:-1 group-title="卫视",四川卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="卫视",天津卫视高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225698/index.m3u8
+#EXTINF:-1 group-title="卫视",安徽卫视高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 group-title="卫视",山东卫视高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 group-title="卫视",山西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225730/index.m3u8
+#EXTINF:-1 group-title="卫视",广东卫视高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225701/index.m3u8
+#EXTINF:-1 group-title="卫视",广西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225731/index.m3u8
+#EXTINF:-1 group-title="卫视",重庆卫视高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 group-title="卫视",吉林卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225680/index.m3u8
+#EXTINF:-1 group-title="卫视",云南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225664/index.m3u8
+#EXTINF:-1 group-title="卫视",陕西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225729/index.m3u8
+#EXTINF:-1 group-title="卫视",内蒙古卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225667/index.m3u8
+#EXTINF:-1 group-title="卫视",青海卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225727/index.m3u8
+#EXTINF:-1 group-title="卫视",黑龙江卫视高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225690/index.m3u8
+#EXTINF:-1 group-title="卫视",宁夏卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225726/index.m3u8
+#EXTINF:-1 group-title="卫视",甘肃卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225724/index.m3u8
+#EXTINF:-1 group-title="卫视",西藏卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1 group-title="卫视",新疆卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1 group-title="卫视",旅游卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225722/index.m3u8
+#EXTINF:-1 group-title="卫视",贵州卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225728/index.m3u8
+#EXTINF:-1 group-title="卫视",辽宁卫视高清8M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225696/index.m3u8
+#EXTINF:-1 group-title="数字",超级体育4M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225622/index.m3u8
+#EXTINF:-1 group-title="数字",超级电影4M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225623/index.m3u8
+#EXTINF:-1 group-title="数字",超级电视剧4M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225625/index.m3u8
+#EXTINF:-1 group-title="数字",超级综艺4M
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="数字",超级体育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225767/index.m3u8
+#EXTINF:-1 group-title="数字",超级电影
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225766/index.m3u8
+#EXTINF:-1 group-title="数字",超级电视剧
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225765/index.m3u8
+#EXTINF:-1 group-title="数字",超级综艺
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225768/index.m3u8
+#EXTINF:-1 group-title="数字",NewTV电竞
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225653/index.m3u8
+#EXTINF:-1 group-title="数字",精品体育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225709/index.m3u8
+#EXTINF:-1 group-title="数字",精品大剧
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225714/index.m3u8
+#EXTINF:-1 group-title="数字",金牌综艺
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225711/index.m3u8
+#EXTINF:-1 group-title="数字",金鹰卡通
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225721/index.m3u8
+#EXTINF:-1 group-title="数字",卡酷少儿
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225677/index.m3u8
+#EXTINF:-1 group-title="数字",古装剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225678/index.m3u8
+#EXTINF:-1 group-title="数字",动画王国
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225672/index.m3u8
+#EXTINF:-1 group-title="数字",农业致富
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225670/index.m3u8
+#EXTINF:-1 group-title="数字",军旅剧场
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="数字",优漫卡通
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225665/index.m3u8
+#EXTINF:-1 group-title="数字",明星大片
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225716/index.m3u8
+#EXTINF:-1 group-title="数字",中国功夫
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225660/index.m3u8
+#EXTINF:-1 group-title="数字",中国教育-1
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225661/index.m3u8
+#EXTINF:-1 group-title="数字",炫舞未来
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225707/index.m3u8

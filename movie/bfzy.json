@@ -1,0 +1,219 @@
+{
+    "site": "暴风资源",
+    "baseUrl": "https://bfzy.tv",
+    "cjUrl": "https://bfzyapi.com/api.php/provide/vod",
+    "isJson": true,
+    "categoryUrl": "https://bfzyapi.com/api.php/provide/vod?ac=detail&pg=${page}&t=${category}&year=${year}&area=${area}&lang=${lang}&class=${class}&h=${hour}",
+    "detailUrl": "https://bfzyapi.com/api.php/provide/vod?ac=detail&pg=1&ids=${id}",
+    "searchUrl": "https://bfzyapi.com/api.php/provide/vod?ac=detail&pg=${page}&wd=${keyword}&limit=50",   
+    "findListBody": "list",    
+    "findMovieId": "vod_id",
+    "findUrl": "vod_id",
+    "findPosterUrl": "vod_pic",
+    "findTitle": "vod_name",
+    "findRemarks": "vod_remarks",
+    "findScore": "vod_score",
+    "detailBody": "list",
+    "detailPosterUrl": "vod_pic",
+    "detailTitle": "vod_name",
+    "detailSubTitle": "vod_sub",
+    "detailPlot": "vod_content",
+    "detailPlayUrls": "vod_play_url@#@$",
+    "detailPlayTitles": "",
+    "detailScore": "vod_score",
+    "detailRemarks": "vod_remarks",
+    "detailGenre": "vod_class",
+    "detailDirector": "vod_director",
+    "detailActors": "vod_actor",
+    "detailYear": "vod_year",
+    "detailRegion": "vod_area",
+    "detailLanguage": "vod_lang",
+    "detailUpdateTime": "vod_time",    
+    "categories": [{
+		"type": "22",
+		"pid": "20",
+		"title": "喜剧片"
+	},
+	{
+		"type": "28",
+		"pid": "20",
+		"title": "纪录片"
+	},
+	{
+		"type": "36",
+		"pid": "30",
+		"title": "日本剧"
+	},
+	{
+		"type": "23",
+		"pid": "20",
+		"title": "恐怖片"
+	},
+	{
+		"type": "26",
+		"pid": "20",
+		"title": "剧情片"
+	},
+	{
+		"type": "44",
+		"pid": "39",
+		"title": "海外动漫"
+	},
+	{
+		"type": "25",
+		"pid": "20",
+		"title": "爱情片"
+	},
+	{
+		"type": "38",
+		"pid": "30",
+		"title": "泰国剧"
+	},
+	{
+		"type": "39",
+		"pid": "0",
+		"title": "动漫片"
+	},
+	{
+		"type": "50",
+		"pid": "20",
+		"title": "动画片"
+	},
+	{
+		"type": "52",
+		"pid": "0",
+		"title": "预告片"
+	},
+	{
+		"type": "31",
+		"pid": "30",
+		"title": "国产剧"
+	},
+	{
+		"type": "40",
+		"pid": "39",
+		"title": "国产动漫"
+	},
+	{
+		"type": "41",
+		"pid": "39",
+		"title": "日韩动漫"
+	},
+	{
+		"type": "46",
+		"pid": "45",
+		"title": "大陆综艺"
+	},
+	{
+		"type": "30",
+		"pid": "0",
+		"title": "连续剧"
+	},
+	{
+		"type": "33",
+		"pid": "30",
+		"title": "香港剧"
+	},
+	{
+		"type": "51",
+		"pid": "0",
+		"title": "电影解说"
+	},
+	{
+		"type": "32",
+		"pid": "30",
+		"title": "欧美剧"
+	},
+	{
+		"type": "53",
+		"pid": "0",
+		"title": "体育赛事"
+	},
+	{
+		"type": "34",
+		"pid": "30",
+		"title": "韩国剧"
+	},
+	{
+		"type": "49",
+		"pid": "45",
+		"title": "欧美综艺"
+	},
+	{
+		"type": "54",
+		"pid": "53",
+		"title": "足球"
+	},
+	{
+		"type": "35",
+		"pid": "30",
+		"title": "台湾剧"
+	},
+	{
+		"type": "45",
+		"pid": "0",
+		"title": "综艺片"
+	},
+	{
+		"type": "43",
+		"pid": "39",
+		"title": "港台动漫"
+	},
+	{
+		"type": "24",
+		"pid": "20",
+		"title": "科幻片"
+	},
+	{
+		"type": "56",
+		"pid": "53",
+		"title": "网球"
+	},
+	{
+		"type": "27",
+		"pid": "20",
+		"title": "战争片"
+	},
+
+	{
+		"type": "20",
+		"pid": "0",
+		"title": "电影片"
+	},
+	{
+		"type": "37",
+		"pid": "30",
+		"title": "海外剧"
+	},
+	{
+		"type": "58",
+		"pid": "0",
+		"title": "短剧"
+	},
+	{
+		"type": "42",
+		"pid": "39",
+		"title": "欧美动漫"
+	},
+	{
+		"type": "47",
+		"pid": "45",
+		"title": "港台综艺"
+	},
+	{
+		"type": "48",
+		"pid": "45",
+		"title": "日韩综艺"
+	},
+	{
+		"type": "55",
+		"pid": "53",
+		"title": "篮球"
+	},
+	{
+		"type": "21",
+		"pid": "20",
+		"title": "动作片"
+	}
+]
+}
