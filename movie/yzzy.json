@@ -1,0 +1,218 @@
+{
+    "site": "优质资源",
+    "baseUrl": "https://yzzy.tv/",
+    "isJson":true,
+    "categoryUrl": "https://api.yzzy-api.com/inc/api_mac10.php?ac=detail&pg=${page}&t=${category}&year=${year}&area=${area}&lang=${lang}&class=${class}&h=${hour}",
+    "detailUrl": "https://api.yzzy-api.com/inc/api_mac10.php?ac=detai&ids=${id}",
+    "searchUrl": "https://api.yzzy-api.com/inc/api_mac10.php?ac=detail&pg=${page}&wd=${keyword}&limit=50",   
+    "findListBody": "list",    
+    "findMovieId": "vod_id",
+    "findUrl": "vod_id",
+    "findPosterUrl": "vod_pic",
+    "findTitle": "vod_name",
+    "findRemarks": "vod_remarks",
+    "findScore": "vod_score",
+    "detailBody": "list",
+    "detailPosterUrl": "vod_pic",
+    "detailTitle": "vod_name",
+    "detailSubTitle": "vod_sub",
+    "detailPlot": "vod_content",
+    "detailPlayUrls": "vod_play_url@#@$",
+    "detailPlayTitles": "",
+    "detailScore": "vod_score",
+    "detailRemarks": "vod_remarks",
+    "detailGenre": "vod_class",
+    "detailDirector": "vod_director",
+    "detailActors": "vod_actor",
+    "detailYear": "vod_year",
+    "detailRegion": "vod_area",
+    "detailLanguage": "vod_lang",
+    "detailUpdateTime": "vod_time",
+    "detailVideoType":".m3u8",
+    "categories":[
+  {
+    "type": "1",
+	"pid":"0",
+    "title": "电影"
+  },
+  {
+    "type": "2",
+	"pid":"0",
+    "title": "连续剧"
+  },
+  {
+    "type": "3",
+	"pid":"0",
+    "title": "综艺"
+  },
+  {
+    "type": "4",
+	"pid":"0",
+    "title": "动漫"
+  },
+  {
+    "type": "5",
+	"pid":"1",
+    "title": "动作片"
+  },
+  {
+    "type": "6",
+	"pid":"1",
+    "title": "喜剧片"
+  },
+  {
+    "type": "7",
+	"pid":"1",
+    "title": "爱情片"
+  },
+  {
+    "type": "8",
+	"pid":"1",
+    "title": "科幻片"
+  },
+  {
+    "type": "9",
+	"pid":"1",
+    "title": "恐怖片"
+  },
+  {
+    "type": "10",
+	"pid":"1",
+    "title": "剧情片"
+  },
+  {
+    "type": "11",
+	"pid":"1",
+    "title": "战争片"
+  },
+  {
+    "type": "12",
+	"pid":"2",
+    "title": "国产剧"
+  },
+  {
+    "type": "13",
+	"pid":"2",
+    "title": "台湾剧"
+  },
+  {
+    "type": "14",
+	"pid":"2",
+    "title": "韩国剧"
+  },
+  {
+    "type": "15",
+	"pid":"2",
+    "title": "欧美剧"
+  },
+  {
+    "type": "16",
+	"pid":"2",
+    "title": "香港剧"
+  },
+  {
+    "type": "17",
+	"pid":"2",
+    "title": "泰国剧"
+  },
+  {
+    "type": "18",
+	"pid":"2",
+    "title": "日本剧"
+  }, 
+  {
+    "type": "20",
+	"pid":"1",
+    "title": "纪录片"
+  },
+  {
+    "type": "41",
+	"pid":"1",
+    "title": "动画片"
+  },
+  {
+    "type": "54",
+	"pid":"2",
+    "title": "海外剧"
+  }, 
+  {
+    "type": "62",
+	"pid":"3",
+    "title": "大陆综艺"
+  },
+  {
+    "type": "63",
+	"pid":"3",
+    "title": "港台综艺"
+  },
+  {
+    "type": "64",
+	"pid":"3",
+    "title": "日韩综艺"
+  },
+  {
+    "type": "65",
+	"pid":"3",
+    "title": "欧美综艺"
+  },
+  {
+    "type": "66",
+	"pid":"4",
+    "title": "国产动漫"
+  },
+  {
+    "type": "67",
+	"pid":"4",
+    "title": "日韩动漫"
+  },
+  {
+    "type": "68",
+	"pid":"4",
+    "title": "欧美动漫"
+  },
+  {
+    "type": "69",
+	"pid":"4",
+    "title": "港台动漫"
+  },
+  {
+    "type": "70",
+	"pid":"4",
+    "title": "海外动漫"
+  },
+  {
+    "type": "78",
+	"pid":"0",
+    "title": "搞笑"
+  },
+  {
+    "type": "79",
+	"pid":"0",
+    "title": "音乐"
+  },
+  {
+    "type": "80",
+    "pid":"0",
+    "title": "影视解说"
+  },
+  {
+    "type": "81",
+    "pid":"0",
+    "title": "汽车"
+  },
+  {
+    "type": "83",
+	"pid":"2",
+    "title": "短剧"
+  },
+  {
+    "type": "94",
+    "title": "体育"
+  },
+  {
+    "type": "95",
+	"pid":"4",
+    "title": "漫剧"
+  }
+]
+}
