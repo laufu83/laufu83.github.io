@@ -4,6 +4,7 @@
 	"updateTitle": "发现新版本",
 	"updateDesc": "修复已知问题，优化体验",
 	"downloadUrl": "https://s.lau.cc.cd/release/app-release.apk",
+	"iptvUrl": "https://s.lau.cc.cd/tv/iptv.m3u",
 	"forceUpdate": false,
 	"updateEnable": false,
 	"movieHubs": [
