@@ -27,12 +27,7 @@
 			"site": "supabase",
 			"type": 1,
 			"api":  "https://s.lau.cc.cd/movie/supabase.json"
-		},
-          {
-			"site": "如意",
-			"type": 0,
-			"api":  "https://cj.rycjapi.com/api.php/provide/vod/"
-		},
+		},        
         {
 			"site": "红牛",
 			"type": 0,
