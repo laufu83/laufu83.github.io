@@ -2,12 +2,28 @@
     "cacheTime": 60,
     "lives": [
         {
+            "name": "江西移动",
+            "url": "https://lau.new.cd/tv/jxyd.txt"
+        },
+         {
+            "name": "江西移动v6",
+            "url": "https://lau.new.cd/tv/jxv6.txt"
+        },
+         {
             "name": "江西移动iptv",
-            "url": "https://lau.new.cd/movie/jxyd.txt"
+            "url": "https://lau.new.cd/tv/iptv.m3u"
+        },
+            {
+            "name": "江西移动cmcc",
+            "url": "https://lau.new.cd/tv/jxcmcc.m3u"
         },
         {
-            "name": "江西移动高清",
-            "url": "https://lau.new.cd/movie/jxcmcc.m3u"
+            "name": "江西联通",
+            "url": "https://lau.new.cd/tv/jxlt.m3u"
+        },
+        {
+            "name": "江西电信",
+            "url": "https://lau.new.cd/tv/jxdx.m3u"
         }
     ],
     "sites": [
