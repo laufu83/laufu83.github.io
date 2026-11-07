@@ -1,0 +1,9 @@
+{
+	"latestVersionName": "1.0.8",
+	"latestVersionCode": 8,
+	"updateTitle": "发现新版本",
+	"updateDesc": "修复已知问题，优化体验",
+	"downloadUrl": "https://s.lau.cc.cd/release/app-release.apk",
+	"forceUpdate": false,
+	"updateEnable": false
+}
