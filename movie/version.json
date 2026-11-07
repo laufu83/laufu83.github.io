@@ -5,5 +5,5 @@
 	"updateDesc": "修复已知问题，优化体验",
 	"downloadUrl": "https://s.lau.cc.cd/release/app-release.apk",
 	"forceUpdate": false,
-	"updateEnable": false
+	"updateEnable": true
 }
