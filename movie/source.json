@@ -38,6 +38,12 @@
             "api": "https://cj.lziapi.com/api.php/provide/vod",
             "name": "量子"
         },
+         {
+            "key": "test",
+            "type": 1,
+            "api": "https://m.zetao.cc.cd",
+            "name": "test"
+        },
         {
             "key": "bfzy",
             "api": "https://bfzyapi.com/api.php/provide/vod",
