@@ -32,23 +32,19 @@
             "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
             "name": "天堂",
             "detail": "http://caiji.dyttzyapi.com"
-        },
-        {
-            "key": "lzi",
-            "api": "https://cj.lziapi.com/api.php/provide/vod",
-            "name": "量子"
+        },      
+         {
+            "key": "lau2",
+            "type": 1,
+            "api": "https://laufu.us.ci",
+            "name": "暴风资源"
         },
          {
             "key": "lau",
             "type": 1,
             "api": "https://lau.us.ci",
             "name": "量子资源"
-        },
-        {
-            "key": "bfzy",
-            "api": "https://bfzyapi.com/api.php/provide/vod",
-            "name": "暴风"
-        },
+        },      
         {
             "key": "tyyszy",
             "api": "https://tyyszy.com/api.php/provide/vod",
@@ -140,6 +136,15 @@
             "api": "https://api.ukuapi88.com/api.php/provide/vod",
             "name": "U酷",
             "detail": "https://www.ukuzy.com/"
+        },
+          {
+            "key": "lzi",
+            "api": "https://cj.lziapi.com/api.php/provide/vod",
+            "name": "量子"
+        },  {
+            "key": "bfzy",
+            "api": "https://bfzyapi.com/api.php/provide/vod",
+            "name": "暴风"
         }
     ]
 }
