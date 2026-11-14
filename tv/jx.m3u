@@ -238,6 +238,27 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo=" https://fu.ddns.ge/tv/logo/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="4K",北京卫视4K
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226386/2/index.m3u8?fmt=ts2hls$2160p
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="4K",湖南卫视4K
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226398/2/index.m3u8?fmt=ts2hls$2160p
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="4K",浙江卫视4K
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226404/2/index.m3u8?fmt=ts2hls$2160p
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="4K",广东卫视4K
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226405/2/index.m3u8?fmt=ts2hls$2160p
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="4K",东方卫视4K
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226429/2/index.m3u8?fmt=ts2hls$2160p
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="4K",深圳卫视4K
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226409/2/index.m3u8?fmt=ts2hls$2160p
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="4K",四川卫视4K
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226424/2/index.m3u8?fmt=ts2hls$2160p
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="4K",江苏卫视4K
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226401/2/index.m3u8?fmt=ts2hls$2160p
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="4K",山东卫视4K
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226407/2/index.m3u8?fmt=ts2hls$2160p
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4K
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226422/index.m3u8$fmt=ts2hls$2160p
+
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo=" https://fu.ddns.ge/tv/logo/山东教育卫视.png" group-title="其他",山东教育卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225719/index.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo=" https://fu.ddns.ge/tv/logo/北京/北京纪实科教.png" group-title="其他",北京纪实科教
