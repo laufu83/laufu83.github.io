@@ -231,38 +231,38 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226420/01.m3u8?fmt=ts2
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226423/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="九江新闻综合频道" tvg-logo=" https://fu.ddns.ge/tv/logo/江西/九江新闻综合频道.png" group-title="江西",九江新闻综合频道
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226417/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo=" https://fu.ddns.ge/tv/logo/凤凰香港.png" group-title="香港",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo=" https://fu.ddns.ge/tv/logo/凤凰卫视香港台.png" group-title="香港",凤凰香港
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo=" https://fu.ddns.ge/tv/logo/凤凰中文.png" group-title="香港",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo=" https://fu.ddns.ge/tv/logo/凤凰卫视中文台.png" group-title="香港",凤凰中文
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo=" https://fu.ddns.ge/tv/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo=" https://fu.ddns.ge/tv/logo/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 
-#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo=" https://fu.ddns.ge/tv/logo/山东/山东教育卫视.png" group-title="其他",山东教育卫视
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo=" https://fu.ddns.ge/tv/logo/山东教育卫视.png" group-title="其他",山东教育卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225719/index.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo=" https://fu.ddns.ge/tv/logo/北京/北京纪实科教.png" group-title="其他",北京纪实科教
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo=" https://fu.ddns.ge/tv/logo/湖南/湖南金鹰纪实.png" group-title="其他",湖南金鹰纪实
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo=" https://fu.ddns.ge/tv/logo/NewTV军旅剧场.png" group-title="其他",NewTV军旅剧场
+#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo=" https://fu.ddns.ge/tv/logo/newtv军旅剧场.png" group-title="其他",NewTV军旅剧场
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo=" https://fu.ddns.ge/tv/logo/NewTV农业致富.png" group-title="其他",NewTV农业致富
+#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo=" https://fu.ddns.ge/tv/logo/newtv农业致富.png" group-title="其他",NewTV农业致富
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo=" https://fu.ddns.ge/tv/logo/NewTV军事评论.png" group-title="其他",NewTV军事评论
+#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo=" https://fu.ddns.ge/tv/logo/newtv军事评论.png" group-title="其他",NewTV军事评论
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
-#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo=" https://fu.ddns.ge/tv/logo/NewTV中国功夫.png" group-title="其他",NewTV中国功夫
+#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo=" https://fu.ddns.ge/tv/logo/newtv中国功夫.png" group-title="其他",NewTV中国功夫
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-logo=" https://fu.ddns.ge/tv/logo/NewTV怡伴健康.png" group-title="其他",NewTV怡伴健康
+#EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-logo=" https://fu.ddns.ge/tv/logo/newtv怡伴健康.png" group-title="其他",NewTV怡伴健康
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo=" https://fu.ddns.ge/tv/logo/NewTV古装剧场.png" group-title="其他",NewTV古装剧场
+#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo=" https://fu.ddns.ge/tv/logo/newtv古装剧场.png" group-title="其他",NewTV古装剧场
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
-#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo=" https://fu.ddns.ge/tv/logo/NewTV家庭剧场.png" group-title="其他",NewTV家庭剧场
+#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo=" https://fu.ddns.ge/tv/logo/newtv家庭剧场.png" group-title="其他",NewTV家庭剧场
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo=" https://fu.ddns.ge/tv/logo/NewTV明星大片.png" group-title="其他",NewTV明星大片
+#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo=" https://fu.ddns.ge/tv/logo/newtv明星大片.png" group-title="其他",NewTV明星大片
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-name="NewTV海外剧场" tvg-logo=" https://fu.ddns.ge/tv/logo/NewTV海外剧场.png" group-title="其他",NewTV海外剧场
+#EXTINF:-1 tvg-name="NewTV海外剧场" tvg-logo=" https://fu.ddns.ge/tv/logo/newtv海外剧场.png" group-title="其他",NewTV海外剧场
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
-#EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-logo=" https://fu.ddns.ge/tv/logo/NewTV欢乐剧场.png" group-title="其他",NewTV欢乐剧场
+#EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-logo=" https://fu.ddns.ge/tv/logo/newtv欢乐剧场.png" group-title="其他",NewTV欢乐剧场
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
-#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo=" https://fu.ddns.ge/tv/logo/NewTV精品大剧.png" group-title="其他",NewTV精品大剧
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m
+#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo=" https://fu.ddns.ge/tv/logo/newtv精品大剧.png" group-title="其他",NewTV精品大剧
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
