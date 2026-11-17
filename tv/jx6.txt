@@ -292,6 +292,16 @@ NTV中国功夫,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/322
 睛彩青少,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226380/2/index.m3u8
 精品影视,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221225712/2/index.m3u8
 精品影视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225712/2/index.m3u8
+4k高清,#genre#
+北京卫视4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226386/2/index.m3u8?fmt=ts2hls$2160p
+湖南卫视4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226398/2/index.m3u8?fmt=ts2hls$2160p
+浙江卫视4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226404/2/index.m3u8?fmt=ts2hls$2160p
+广东卫视4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226405/2/index.m3u8?fmt=ts2hls$2160p
+东方卫视4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226429/2/index.m3u8?fmt=ts2hls$2160p
+深圳卫视4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226409/2/index.m3u8?fmt=ts2hls$2160p
+四川卫视4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226424/2/index.m3u8?fmt=ts2hls$2160p
+江苏卫视4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226401/2/index.m3u8?fmt=ts2hls$2160p
+山东卫视4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226407/2/index.m3u8?fmt=ts2hls$2160p
 卫视频道,#genre#
 凤凰香港,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888888/224/3221226251/2/index.m3u8
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226251/2/index.m3u8
