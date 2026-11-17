@@ -27,6 +27,12 @@
         }
     ],
     "sites": [
+            {
+            "key": "test",
+            "api": "https://fu.ddns.ge/movie/rule/dytt.json",
+            "name": "天堂txt",
+            "type": 2
+        }, 
         {
             "key": "dytt",
             "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
