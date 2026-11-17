@@ -2,7 +2,7 @@
 	"latestVersionName": "1.0.8",
 	"latestVersionCode": 8,
 	"updateTitle": "发现新版本",
-	"updateDesc": "优化广告过滤，优化体验",
+	"updateDesc": "增加影视网站html解析支持，优化体验",
 	"downloadUrl": "https://fu.ddns.ge/release/app-26111701.apk",
 	"forceUpdate": false,
 	"updateEnable": true
