@@ -99,7 +99,7 @@
             "selectors": ["tbody tr:contains(更新时间) td:nth-child(2)"]
         },
         "vodContent": {
-            "selectors": [".max-h-\\[290px\\] p"]
+            "selectors": ["[class*=\"max-h-[290px]\"] p"]
         }
     },
     "playListRule": {
