@@ -60,9 +60,7 @@
 },
   "searchRule": {
     "url": "/index.php/vod/search/page/{page}/wd/{keyword}.html",
-    "method": "get",
-    "body": {},
-    "resultRule": null
+    "selectorType": "css"
   },
   "detailRule":{
     "url": "/index.php/vod/detail/id/{id}.html",
