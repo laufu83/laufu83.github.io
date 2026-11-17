@@ -1,0 +1,61 @@
+{
+  "siteName": "电影天堂",
+  "baseUrl": "https://dyttzy4.tv", 
+  "categoryRule": {
+    "selectorType": "css",
+    "itemSelector": ".nav-menu li a",
+    "fields": {
+      "typeName": {
+        "selectors": [":root"],
+        "attr": "text"
+      },
+      "typeUrl": {
+        "selectors": [":root"],
+        "attr": "href"
+      }
+    },
+    "includeName": ["电影", "电视剧", "动漫", "综艺", "纪录片", "短剧"],
+    "excludeName": ["首页", "排行榜", "留言", "关于", "公告", "资讯", "新闻"],
+    "urlRegex": ".*/vod/type/id/\\d+\\.html"
+  },
+  "listRule": {
+    "url":"/index.php/vod/type/id/{id}.html",
+    "selectorType": "css",
+    "itemSelector": ".vod-list > li",
+    "fields": {
+      "vodName": {"selectors":["a.vod-name"],"attr":"text"},
+      "vodPic": {"selectors":["img"],"attr":"data-src"},
+      "vodRemarks": {"selectors":[".vod-remarks"],"attr":"text"},
+      "vodYear": {"selectors":[".vod-year"],"attr":"text"},
+      "vodArea": {"selectors":[".vod-area"],"attr":"text"},
+      "typeName": {"selectors":[".vod-type"],"attr":"text"},
+      "vodScore": {"selectors":[".vod-score"],"attr":"text","default":"0.0"},
+      "vodPlayUrl": {"selectors":["a"],"attr":"href"}
+    }
+  },
+  "searchRule": {
+    "url": "/index.php/vod/search/page/{page}/wd/{keyword}.html",
+    "method": "get",
+    "body": {},
+    "resultRule": null
+  },
+  "detailRule": {
+    "url":"/index.php/vod/detail/id/{id}.html",
+    "selectorType": "css",
+    "rootSelector": ".vod-info",
+    "fields": {
+      "vodActor": {"selectors":[".vod-actor"],"attr":"text"},
+      "vodDirector": {"selectors":[".vod-director"],"attr":"text"},
+      "vodContent": {"selectors":[".vod-desc"],"attr":"text"}
+    },
+    "playListRule": {
+      "itemSelector": "div:contains(dyttm3u8地址) + ul li a",
+      "attr": "text",
+      "splitSep": "$"
+    }
+  },
+  "preProcess": {
+    "picAutoFullUrl": true,
+    "trimText": true
+  }
+}
