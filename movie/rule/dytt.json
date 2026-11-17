@@ -64,21 +64,58 @@
     "body": {},
     "resultRule": null
   },
-  "detailRule": {
-    "url":"/index.php/vod/detail/id/{id}.html",
+  "detailRule":{
+    "url": "/index.php/vod/detail/id/{id}.html",
     "selectorType": "css",
-    "rootSelector": ".vod-info",
+    "rootSelector": "main",
     "fields": {
-      "vodActor": {"selectors":[".vod-actor"],"attr":"text"},
-      "vodDirector": {"selectors":[".vod-director"],"attr":"text"},
-      "vodContent": {"selectors":[".vod-desc"],"attr":"text"}
+        "vodName": {
+            "selectors": ["h1"]
+        },
+        "vodSubName": {
+            "selectors": ["h2"]
+        },
+        "vodPic": {
+            "selectors": ["img[src]:first-child"],
+            "attr": "src"
+        },
+        "vodScore": {
+            "selectors": ["tbody tr:contains(豆瓣) td:nth-child(2)"]
+        },
+        "vodRemarks": {
+            "selectors": ["tbody tr:contains(状态) td:nth-child(2)"]
+        },
+        "vodType": {
+            "selectors": ["tbody tr:contains(类型) td:nth-child(2)"]
+        },
+        "vodDirector": {
+            "selectors": ["tbody tr:contains(导演) td:nth-child(2)"]
+        },
+        "vodActor": {
+            "selectors": ["tbody tr:contains(演员) td:nth-child(2)"]
+        },
+        "vodYear": {
+            "selectors": ["tbody tr:contains(年代) td:nth-child(2)"]
+        },
+        "vodArea": {
+            "selectors": ["tbody tr:contains(地区) td:nth-child(2)"]
+        },
+        "vodLang": {
+            "selectors": ["tbody tr:contains(语言) td:nth-child(2)"]
+        },
+        "vodUpdateTime": {
+            "selectors": ["tbody tr:contains(更新时间) td:nth-child(2)"]
+        },
+        "vodContent": {
+            "selectors": [".max-h-\\[290px\\] p"]
+        }
     },
     "playListRule": {
-      "itemSelector": "div:contains(dyttm3u8地址) + ul li a",
-      "attr": "text",
-      "splitSep": "$"
+        "itemSelector": "ul.dyttm3u8 li a",
+        "attr": "text",
+        "splitSep": "$"
     }
-  },
+},
   "preProcess": {
     "picAutoFullUrl": true,
     "trimText": true
