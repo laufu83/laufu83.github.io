@@ -2,7 +2,6 @@
   "siteName": "电影天堂",
   "baseUrl": "https://dyttzy4.tv", 
   "categoryRule": {
-    "selectorType": "css",
     "itemSelector": "nav li a",
     "fields": {
       "typeName": {
@@ -20,7 +19,6 @@
   },
   "listRule": {
     "url": "/index.php/vod/type/id/{id}.html",
-    "selectorType": "css",
     "itemSelector": "main tbody > tr",
     "fields": {
         "vodName": {
@@ -59,12 +57,10 @@
     }
 },
   "searchRule": {
-    "url": "/index.php/vod/search/page/{page}/wd/{keyword}.html",
-    "selectorType": "css"
+    "url": "/index.php/vod/search/page/{page}/wd/{keyword}.html"
   },
   "detailRule":{
     "url": "/index.php/vod/detail/id/{id}.html",
-    "selectorType": "css",
     "rootSelector": "main",
     "fields": {
         "vodName": {
@@ -113,9 +109,5 @@
         "attr": "text",
         "splitSep": "$"
     }
-},
-  "preProcess": {
-    "picAutoFullUrl": true,
-    "trimText": true
-  }
+ }
 }
