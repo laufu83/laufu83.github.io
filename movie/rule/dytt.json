@@ -12,9 +12,7 @@
         "selectors": [":root"],
         "attr": "href"
       }
-    },
-    "includeName": ["电影", "电视剧", "动漫", "综艺", "纪录片", "短剧"],
-    "excludeName": ["首页", "排行榜", "留言", "关于", "公告", "资讯", "新闻"],
+    },   
     "urlRegex": ".*/vod/type/id/\\d+\\.html"
   },
   "listRule": {
