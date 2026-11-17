@@ -3,7 +3,7 @@
   "baseUrl": "https://dyttzy4.tv", 
   "categoryRule": {
     "selectorType": "css",
-    "itemSelector": ".nav-menu li a",
+    "itemSelector": "nav li a",
     "fields": {
       "typeName": {
         "selectors": [":root"],
@@ -19,20 +19,45 @@
     "urlRegex": ".*/vod/type/id/\\d+\\.html"
   },
   "listRule": {
-    "url":"/index.php/vod/type/id/{id}/page/{page}.html",
+    "url": "/index.php/vod/type/id/{id}.html",
     "selectorType": "css",
-    "itemSelector": ".vod-list > li",
+    "itemSelector": "main tbody > tr",
     "fields": {
-      "vodName": {"selectors":["a.vod-name"],"attr":"text"},
-      "vodPic": {"selectors":["img"],"attr":"data-src"},
-      "vodRemarks": {"selectors":[".vod-remarks"],"attr":"text"},
-      "vodYear": {"selectors":[".vod-year"],"attr":"text"},
-      "vodArea": {"selectors":[".vod-area"],"attr":"text"},
-      "typeName": {"selectors":[".vod-type"],"attr":"text"},
-      "vodScore": {"selectors":[".vod-score"],"attr":"text","default":"0.0"},
-      "vodPlayUrl": {"selectors":["a"],"attr":"href"}
+        "vodName": {
+            "selectors": ["th a > div > div:nth-child(2) > div:nth-child(1)"]
+        },
+        "vodSubName": {
+            "selectors": ["th a > div > div:nth-child(2) > div:nth-child(2)"]
+        },
+        "vodPic": {
+            "selectors": ["img"],
+            "attr": "src"
+        },
+        "vodRemarks": {
+            "selectors": ["td:nth-child(2) span"]
+        },
+        "vodYear": {
+            "selectors": ["td:nth-child(3)"]
+        },
+        "vodArea": {
+            "selectors": ["td:nth-child(4)"]
+        },
+        "typeName": {
+            "selectors": ["td:nth-child(5)"]
+        },
+        "vodScore": {
+            "selectors": ["td:nth-child(6) p"],
+            "default": "0.0"
+        },
+        "vodUrl": {
+            "selectors": ["th a"],
+            "attr": "href"
+        },
+        "vodUpdateTime": {
+            "selectors": ["td:nth-child(7)"]
+        }
     }
-  },
+},
   "searchRule": {
     "url": "/index.php/vod/search/page/{page}/wd/{keyword}.html",
     "method": "get",
