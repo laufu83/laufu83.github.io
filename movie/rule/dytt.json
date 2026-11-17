@@ -19,7 +19,7 @@
     "urlRegex": ".*/vod/type/id/\\d+\\.html"
   },
   "listRule": {
-    "url":"/index.php/vod/type/id/{id}.html",
+    "url":"/index.php/vod/type/id/{id}/page/{page}.html",
     "selectorType": "css",
     "itemSelector": ".vod-list > li",
     "fields": {
