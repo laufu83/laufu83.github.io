@@ -130,7 +130,7 @@
         },
           {
             "key": "lzi",
-            "api": https://lzizy.net/api.php/provide/vod/from/lzm3u8",
+            "api": "https://lzizy.net/api.php/provide/vod/from/lzm3u8",
             "name": "量子"
         },  {
             "key": "bfzy",
