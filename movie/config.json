@@ -97,7 +97,7 @@
 		{
 			"site": "量子",
 			"type": 0,
-			"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/json"
+			"api": "https://lzizy.net/api.php/provide/vod/from/lzm3u8/at/json"
 		},
 		{
 			"site": "牛牛",
