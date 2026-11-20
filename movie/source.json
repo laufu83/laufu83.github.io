@@ -11,11 +11,11 @@
         },
          {
             "name": "江西移动iptv",
-            "url": "https://fu.ddns.ge/tv/iptv.m3u"
+            "url": "https://fu.ddns.ge/tv/jx.m3u"
         },
             {
-            "name": "江西移动cmcc",
-            "url": "https://fu.ddns.ge/tv/jx.m3u"
+            "name": "赣州移动",
+            "url": "https://fu.ddns.ge/tv/gzyd.m3u"
         },
         {
             "name": "江西联通",
