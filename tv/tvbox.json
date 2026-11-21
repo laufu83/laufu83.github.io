@@ -212,7 +212,7 @@
             "key": "csp_xml___电影天堂",
             "name": "电影天堂",
             "type": 1,
-            "api": "https://dyttzy4.tv/api.php/provide/vod/at/json/",
+            "api": "https://dyttzy4.tv/api.php/provide/vod/from/dyttm3u8/",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
