@@ -2,8 +2,8 @@
 	"latestVersionName": "1.0.8",
 	"latestVersionCode": 8,
 	"updateTitle": "发现新版本",
-	"updateDesc": "增加影视部分接口缓存，优化体验",
-	"downloadUrl": "https://fu.ddns.ge/release/app-26112001.apk",
+	"updateDesc": "优化直播异常换源处理，优化体验",
+	"downloadUrl": "https://fu.ddns.ge/release/app-26112101.apk",
 	"forceUpdate": false,
 	"updateEnable": true
 }
