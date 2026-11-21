@@ -1,4 +1,5 @@
 {
+  "epg":"https://epg.zsdc.eu.org/t.xml.gz",
   "lives": [
         {
             "name": "江西移动",
