@@ -1,0 +1,140 @@
+{
+  "lives": [
+        {
+            "name": "江西移动",
+            "url": "https://fu.ddns.ge/tv/jxyd.txt"
+        },
+         {
+            "name": "江西移动v6",
+            "url": "https://fu.ddns.ge/tv/jxv6.txt"
+        },
+         {
+            "name": "江西移动iptv",
+            "url": "https://fu.ddns.ge/tv/jx.m3u"
+        },
+            {
+            "name": "赣州移动",
+            "url": "https://fu.ddns.ge/tv/gzyd.m3u"
+        },
+        {
+            "name": "江西联通",
+            "url": "https://fu.ddns.ge/tv/jxlt.m3u"
+        },
+        {
+            "name": "江西电信",
+            "url": "https://fu.ddns.ge/tv/jxdx.m3u"
+        }
+    ],
+    "sites": [
+            {
+            "key": "test",
+            "api": "https://fu.ddns.ge/movie/rule/dytt.json",
+            "name": "天堂txt",
+            "type": 2
+        }, 
+        {
+            "key": "dytt",
+            "api": "https://dyttzy3.tv/api.php/provide/vod/from/dyttm3u8/at/json",
+            "name": "天堂",
+            "detail": "http://caiji.dyttzyapi.com"
+        },      
+         {
+            "key": "lau2",
+            "type": 1,
+            "api": "https://laufu.us.ci",
+            "name": "暴风资源"
+        },
+         {
+            "key": "lau",
+            "type": 1,
+            "api": "https://lau.us.ci",
+            "name": "量子资源"
+        },      
+        {
+            "key": "tyyszy",
+            "api": "https://tyyszy.com/api.php/provide/vod",
+            "name": "天涯"
+        },
+        {
+            "key": "ffzy",
+            "api": "https://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/json",
+            "name": "非凡",
+            "detail": "http://ffzy5.tv"
+        },
+        {
+            "key": "zy360",
+            "api": "https://360zy.com/api.php/provide/vod",
+            "name": "360"
+        },
+        {
+            "key": "maotaizy",
+            "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/json",
+            "name": "茅台"
+        },
+        {
+            "key": "jisu",
+            "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
+            "name": "极速",
+            "detail": "https://jszyapi.com"
+        },
+        {
+            "key": "mdzy",
+            "api": "https://www.mdzyapi.com/api.php/provide/vod",
+            "name": "魔都"
+        },
+        {
+            "key": "zuid",
+            "api": "https://api.zuidapi.com/api.php/provide/vod",
+            "name": "最大"
+        },
+        {
+            "key": "wujin",
+            "api": "https://api.wujinapi.me/api.php/provide/vod",
+            "name": "无尽"
+        },
+        {
+            "key": "bdzy",
+            "api": "https://api.apibdzy.com/api.php/provide/vod",
+            "name": "百度"
+        },
+        {
+            "key": "hhzyapi",
+            "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8",
+            "name": "豪华",
+            "detail": "https://hhzyapi.com"
+        },
+        {
+            "key": "aqyzy",
+            "api": "https://iqiyizy.com/api.php/provide/vod",
+            "name": "爱奇艺",
+            "detail": "https://iqiyizy.com"
+        },
+        {
+            "key": "myzy",
+            "api": "https://api.maoyanapi.top/api.php/provide/vod",
+            "name": "猫眼",
+            "detail": "https://www.maoyanzy.com"
+        },
+        {
+            "key": "guangsuapi",
+            "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
+            "name": "光速",
+            "detail": "https://api.guangsuapi.com"
+        },
+        {
+            "key": "ukuzy",
+            "api": "https://api.ukuapi88.com/api.php/provide/vod/from/ukm3u8",
+            "name": "U酷",
+            "detail": "https://www.ukuzy.com/"
+        },
+          {
+            "key": "lzi",
+            "api": "https://lzizy.net/api.php/provide/vod/from/lzm3u8",
+            "name": "量子"
+        },  {
+            "key": "bfzy",
+            "api": "https://bfzy1.tv/api.php/provide/vod",
+            "name": "暴风"
+        }
+    ]
+}
